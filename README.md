@@ -13,6 +13,7 @@ The rules for the agents to work from home were a bit complicated, but the were 
 * The agent cannot have any displinary action taken against them in the three months being examained
 * Schedule must include one weekend day worked
 * Must be willing to work 4 hours minimum of Overtime per month if overtime is available (was not enforced if departmental overtime needs were met for the month)
+* Must not have over 7% unplanned absences when compared to scheduled time to work
 
 #### Eligibility to Remain work from home:
 * Agent must have been eligible for ranking for 2 months
@@ -21,6 +22,7 @@ The rules for the agents to work from home were a bit complicated, but the were 
 * No Disciplinary Action taken against the agent in any way
 * Worked 4 or more OT hours in the prior month (can be waived if departmental overtime needs were met for the month)
 * Must work at least one weekend day
+* Must not have over 7% unplanned absences when compared to scheduled time to work
 
 ### How it was accomplished
 The report first calculates all of the dates needed based on how long it takes for data to finalize from the prior fiscal month and prevents the report from fulling running if the data has not finalized. 
